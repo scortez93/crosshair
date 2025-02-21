@@ -6,7 +6,17 @@ Een custom crosshair overlay voor Escape from Tarkov en andere FPS-games. Dit pr
 
 📌 Features
 
-✅ F1 - Verberg/Toon het crosshair✅ F2 - Pas de grootte aan (klein/groot)✅ F3 - Verander de kleur (rood, groen, blauw, geel, wit)✅ F4 - Wissel de vorm (kruis, cirkel, stip)✅ F5 - Verberg/Toon de informatie-overlay✅ F6 - Schakel transparantie (half doorzichtig of volledig zichtbaar)✅ F7 - Sniper Mode (verandert crosshair naar een kleine stip)✅ F8 - Recoil Assist (horizontale lijn om spray-patronen te helpen volgen)✅ F9 - Verplaats het crosshair om FOV-fouten te corrigeren✅ F10 - Sluit het programma direct af ❌✅ Automatisch opslaan van instellingen (kleur, grootte, vorm, positie)
+✅ F1 - Verberg/Toon het crosshair
+✅ F2 - Pas de grootte aan (klein/groot)
+✅ F3 - Verander de kleur (rood, groen, blauw, geel, wit)
+✅ F4 - Wissel de vorm (kruis, cirkel, stip)
+✅ F5 - Verberg/Toon de informatie-overlay
+✅ F6 - Schakel transparantie (half doorzichtig of volledig zichtbaar)
+✅ F7 - Sniper Mode (verandert crosshair naar een kleine stip)
+✅ F8 - Recoil Assist (horizontale lijn om spray-patronen te helpen volgen)
+✅ F9 - Verplaats het crosshair om FOV-fouten te corrigeren
+✅ F10 - Sluit het programma direct af ❌
+✅ Automatisch opslaan van instellingen (kleur, grootte, vorm, positie)
 
 🔧 Installatie
 
